@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm maurostorch!
+
+[![Linkedin: Mauro Storch](https://img.shields.io/badge/-Mauro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maurostorch/)](https://www.linkedin.com/in/maurostorch/)
+[![GitHub Ghazi](https://img.shields.io/github/followers/maurostorch?label=follow&style=social)](https://github.com/maurostorch)
+![](https://komarev.com/ghpvc/?username=maurostorch)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurostorch&count_private=true&show_icons=true)
 
 <!--
 **maurostorch/maurostorch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
