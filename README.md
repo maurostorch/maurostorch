@@ -1,38 +1,15 @@
-### Hi there 👋, I'm Mauro!
+# Hi, I'm Mauro 👋
 
-[![Linkedin: Mauro Storch](https://img.shields.io/badge/-Mauro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maurostorch/)](https://www.linkedin.com/in/maurostorch/)  
-[![GitHub Ghazi](https://img.shields.io/github/followers/maurostorch?label=follow&style=social)](https://github.com/maurostorch)
+**Principal Software Engineer @ Kooltra.com | Cloud Architecture & Technical Leadership | PhD in Computer Science**
 
-# Principal Software Engineer | Distributed Systems & Event-Driven Architectures | K8S, Kafka, Go, Kotlin
+[![LinkedIn](https://img.shields.io/badge/-Mauro-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maurostorch/)
+![Followers](https://img.shields.io/github/followers/maurostorch?label=follow&style=social)
 
-I’m a Principal Software Engineer who cares about building systems that meets users needs and scale. My background is in distributed systems, event-driven architectures, and cloud infrastructure, with hands-on experience in Kafka, Go, and Java/Kotlin. I’ve led migrations to Kubernetes, built streaming pipelines and APIs, and introduced event modeling and event sourcing into real product development. I like solving technical problems with clean, testable code and infrastructure that handle real traffic. I feel challenged and motived when turning complex requirements into reliable services, helping teams make pragmatic architectural decisions, and keeping products moving forward by balancing engineering decisions and buisness needs.
+I design and build event-driven, cloud-native systems for areas such as financial, IoT platforms and construction — low-latency trading integrations, streaming pipelines, and microservice architectures that hold up under real production traffic. My background spans distributed systems, Kubernetes migrations, and infrastructure automation, and I care as much about mentoring teams and making pragmatic architectural calls as I do about the code itself.
 
----
-
-# What's on
-- Go, Kotlin, Java  
-- Kubernetes  
-- AWS, GCP  
-- Kafka  
-- Event-driven, Sagas, Microservices  
-- Salesforce  
-
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurostorch&count_private=true&show_icons=true)
-
-
-<!--
-**maurostorch/maurostorch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
